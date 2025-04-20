@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 
 #EJERCICIO DE EJEMPLO DE LAS DIAPOSITIVAS
 #EN (MAIN2.IPYNB)  ESTÁN ALGUNAS PRUEBAS HECHAS SOBRE EL DF
